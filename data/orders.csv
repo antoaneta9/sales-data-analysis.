@@ -1,0 +1,12 @@
+
+order_id,customer_id,order_date,product,category,quantity,price
+1,101,2026-01-05,Laptop,Electronics,1,1200
+2,102,2026-01-06,Mouse,Accessories,2,25
+3,101,2026-01-08,Keyboard,Accessories,1,60
+4,103,2026-01-10,Monitor,Electronics,2,300
+5,104,2026-01-12,Headphones,Accessories,1,80
+6,102,2026-01-15,Laptop,Electronics,1,1200
+7,105,2026-01-18,Mouse,Accessories,3,25
+8,103,2026-01-20,Keyboard,Accessories,2,60
+9,101,2026-01-22,Monitor,Electronics,1,300
+10,104,2026-01-25,Headphones,Accessories,2,80
